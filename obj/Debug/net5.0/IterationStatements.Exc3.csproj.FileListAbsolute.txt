@@ -1,0 +1,16 @@
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\IterationStatements.Exc3.exe
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\IterationStatements.Exc3.deps.json
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\IterationStatements.Exc3.runtimeconfig.json
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\IterationStatements.Exc3.runtimeconfig.dev.json
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\IterationStatements.Exc3.dll
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\ref\IterationStatements.Exc3.dll
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\bin\Debug\net5.0\IterationStatements.Exc3.pdb
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.csproj.AssemblyReference.cache
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.AssemblyInfoInputs.cache
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.AssemblyInfo.cs
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.csproj.CoreCompileInputs.cache
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.dll
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\ref\IterationStatements.Exc3.dll
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.pdb
+C:\Users\Liv\Desktop\repos\IterationStatements.Exc3\obj\Debug\net5.0\IterationStatements.Exc3.genruntimeconfig.cache
